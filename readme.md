@@ -1,8 +1,19 @@
 Technical Skills:
 ```
-Languages: PHP, JavaScript, basic Objective-C programming language
-Databases: MongoDB, MySQL
-DevOps: Bash Script, SSH
-Web Server : Apache2.0, nginx/1.27.1
-Operating Systems: Ubuntu 24.04.1 LTS 
+Languages: 
+    - PHP, 
+    - JavaScript, 
+    - Objective-C 
+Databases: 
+    - MongoDB, 
+    - MySQL
+DevOps:
+    - Bash Script, 
+    - SSH
+Web Server :
+    - Apache, 
+    - nginx
+Operating Systems: 
+    - Ubuntu
+    - Debian
 ```
